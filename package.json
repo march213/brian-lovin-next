@@ -26,7 +26,7 @@
     "@authik/nextjs": "0.0.9",
     "@graphql-tools/schema": "^8.3.1",
     "@headlessui/react": "^1.4.1",
-    "@prisma/client": "^3.9.1",
+    "@prisma/client": "^4.8.1",
     "@tailwindcss/forms": "^0.4.0",
     "@tailwindcss/line-clamp": "^0.3.1",
     "@tailwindcss/typography": "^0.5.3",
