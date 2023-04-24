@@ -41,7 +41,7 @@
     "feed": "^4.2.2",
     "framer-motion": "^6.2.1",
     "graphql": "^16.6.0",
-    "isomorphic-unfetch": "^3.1.0",
+    "isomorphic-unfetch": "^4.0.2",
     "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.21",
     "lru-cache": "^6.0.0",
