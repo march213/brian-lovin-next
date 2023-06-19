@@ -130,10 +130,10 @@
   dependencies:
     node-fetch "^2.6.1"
 
-"@authik/nextjs@0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@authik/nextjs/-/nextjs-0.0.9.tgz#fc967b42d48ff4c659b4278f19478044e78d1ce5"
-  integrity sha512-Zm+ElcMpTdU4NtBn5ZNQ5LhWx7LzsJhKbWkzpu0ABca4pZZKFfQ/doDAVjHkaZavyPjYCuVcD8h+fwI8y/udmg==
+"@authik/nextjs@0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@authik/nextjs/-/nextjs-0.0.10.tgz#68a1b79b6bd6cdd40d7e67b27d38d4e241801a56"
+  integrity sha512-vSkE6nZAa5UEg3l2SBw2KtK20kLwjE3a6W6Fa/TBQxUnXQMOx5umPKxdb3Op0Z60Xsvat2+LjmvUDDf7yh668A==
   dependencies:
     axios "^0.25.0"
     cookie "^0.4.2"
