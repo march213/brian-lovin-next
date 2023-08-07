@@ -29,7 +29,7 @@
     "@authik/nextjs": "0.0.10",
     "@graphql-tools/schema": "^9.0.12",
     "@headlessui/react": "^1.4.1",
-    "@prisma/client": "^3.9.1",
+    "@prisma/client": "^5.1.1",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.8",
