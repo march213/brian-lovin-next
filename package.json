@@ -49,7 +49,7 @@
     "jsonwebtoken": "^9.0.1",
     "loader-utils": "^3.2.1",
     "lodash": "^4.17.21",
-    "lru-cache": "^6.0.0",
+    "lru-cache": "^10.2.2",
     "next": "^13",
     "next-seo": "^6.5.0",
     "postmark": "^2.8.1",
