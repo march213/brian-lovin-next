@@ -63,7 +63,7 @@
     "react-syntax-highlighter": "^15.6.1",
     "react-visibility-sensor": "^5.1.1",
     "rehype-autolink-headings": "^7.1.0",
-    "rehype-parse": "^8.0.3",
+    "rehype-parse": "^9.0.1",
     "rehype-raw": "^6.1.1",
     "rehype-remark": "^9.1.2",
     "rehype-sanitize": "^6.0.0",
